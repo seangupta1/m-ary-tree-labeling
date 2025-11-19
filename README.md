@@ -2,7 +2,7 @@
 **Group Project**
 
 ## Overview
-This project addresses the problem of assigning integer labels to the vertices of an **m-ary tree** such that:
+This project addresses the problem of assigning integer labels to the vertices of an **m-ary tree** and assigning unique edge weights such that:
 
 1. Each edge weight equals the sum of the labels of its two endpoints.  
 2. All edge weights are unique.  
